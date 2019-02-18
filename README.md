@@ -1,1 +1,65 @@
-# S-A-M-P-L-E-website
+
+<p style="text-align: center;"></p>
+
+<h1 style="text-align: center;">Cyborg Language</h1>
+
+<img style="display: block; margin-left: auto; margin-right:
+auto;" src="img1.jpeg" alt="img1" width="300" height="200" />
+
+<form action="areyouacyborg.php" method="post">
+
+  <p style="text-align: center;">MIGHT BACKFIRE</p>
+
+  <p style="text-align: center;"><input name="name" type="text" value="Enter Your Pet's Name" /></p>
+
+  <p style="text-align: center;">Accessibility links<br />Skip feedback</p>
+
+  <h3 style="text-align: center;">Google<br />MIGHT BACKFIRE<br />Search Results</h3>
+
+  <p style="text-align: center;">English Dictionary plans to make him jealous
+    <br /> when he started attracting more visitors and
+    <br />make the place less attractive.</p>
+
+  <img style="display: block; margin-left: auto; margin-right:
+  auto;" src="img2.jpg" alt="img2" width="300" height="300" />
+
+  <p style="text-align: center;">Backfire Idioms by The Free Dictionary
+    <br />[for something, such as a plot] to fail unexpectedly;
+    <br /> to fail with an undesired result. </p>
+
+  <h4 style="text-align: center;">Your plot backfired on you.</h4>
+
+  <p style="text-align: center;">Backfire by Merriam-Webster ad
+    <br /> could alienate Men.
+    <br /> Toxic People also ask
+    <br />What is backfire effect?</p>
+
+  <img style="display: block; margin-left: auto; margin-right:
+  auto;" src="img3.jpeg" alt="img3" width="300" height="400" />
+
+  <h4 style="text-align: center;">Web results </h4>
+
+  <p style="text-align: center;">Declaring an emergency might backfire on Trump - <br />
+    For Trump to declare a national emergency <br />
+    to get his wall would be <br />
+    the height of chutzpah </p>
+
+  <img style="display: block; margin-left: auto; margin-right:
+  auto;" src="img4.jpg" alt="img4" width="300" height="400" />
+
+  <p style="text-align: right;">Searches related to</p>
+  <ul>
+
+    <ul>
+      <li>backfire in a sentence</li>
+      <li>backfire idiom meaning</li>
+      <li>backfire urban dictionary</li>
+      <li>backfire synonym</li>
+      <li>backfire meaning</li>
+    </ul>
+
+  </ul>
+  <p style="text-align: left;">Page Navigation <br /> Reported by this computer</p>
+  <ol style="text-align: right;">- Use precise location &ndash;</ol>
+  <h1 style="text-align: center;">- Help -</h1>
+</form>
